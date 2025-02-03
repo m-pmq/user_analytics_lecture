@@ -1,4 +1,4 @@
-# Lecture on UX research
+# UX Research Lecture
 Lecture and other learning resources about User Experience Research for designers, managers, and developers.  
 [Presentation of the lecture](Lecture_UX_Research.pdf)  
   
